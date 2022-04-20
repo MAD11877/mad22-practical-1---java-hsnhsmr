@@ -23,7 +23,7 @@ public class Question4
       for (int i=no; i>0; i--){
         System.out.print("*");
       }
-      System.out.println("\n");
+      System.out.print("\n");
       no--;
     }
 
